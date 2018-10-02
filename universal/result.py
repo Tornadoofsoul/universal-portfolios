@@ -6,6 +6,7 @@ from universal import tools
 import seaborn as sns
 from statsmodels.api import OLS
 from matplotlib.colors import ListedColormap
+from universal import algos
 
 
 class PickleMixin(object):
